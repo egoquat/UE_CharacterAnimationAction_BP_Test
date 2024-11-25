@@ -1,4 +1,4 @@
-# .Navi Mesh Character movement basic test
+# Navigation Mesh based movement test
 
 Character animation control test UE 4.26
 
